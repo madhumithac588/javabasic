@@ -6,6 +6,7 @@ public class Sample {
 		System.out.print("welcome");
 		System.out.println("to");
 		System.out.print("jsp");
+		System.out.print("jsp");
 		// TODO Auto-generated method stub
 
 	}
